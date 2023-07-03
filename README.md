@@ -1,4 +1,4 @@
-최종 구현 API 리스트
+**최종 구현 API 리스트**
 ✅ POST / create / diary
 - date parameter 로 받아주세요. (date 형식 : yyyy-MM-dd)
 - text parameter 로 일기 글을 받아주세요.
